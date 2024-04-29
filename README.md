@@ -5,7 +5,7 @@ This project is an example using the CrewAI framework to automate the process of
 #### Instagram Post
 [![Instagram Post](https://img.youtube.com/vi/lcD0nT8IVTg/0.jpg)](https://www.youtube.com/watch?v=lcD0nT8IVTg "Instagram Post")
 
-By [@joaomdmoura](https://x.com/joaomdmoura)
+
 
 - [CrewAI Framework](#crewai-framework)
 - [Running the script](#running-the-script)
